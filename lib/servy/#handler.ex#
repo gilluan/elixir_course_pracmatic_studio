@@ -1,5 +1,6 @@
 defmodule Servy.Handler do
 
+  @module_doc "Servy handler
   @pages_path Path.expand("../pages", __DIR__)
 
   
